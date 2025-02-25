@@ -1,3 +1,5 @@
-function calculateNumber(var1,var2){
-    console.log(var1 + var2);
+function name(params) {
+    function calculateNumber(var1,var2){
+        console.log(var1 + var2);
+    }
 }
